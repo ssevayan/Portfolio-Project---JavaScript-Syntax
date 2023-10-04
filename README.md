@@ -4,7 +4,8 @@
 ### Features
 **1. Chinese Zodiac Sign Reader**
 * Enter your name and select your birth year, you will find out your Chinese zodiac sign.
-* Uncover the unique traits associated with your zodiac annimal.
+* Uncover the unique traits associated with your zodiac animal.
+* The background image of the result page would be your Chinese zodiac animal.
   
 **2. Chinese Zodiac Relationships**
 * Enter your and your partner's name and select your birth year, you will explore the compatibility between different Chinese zodiac signs.
@@ -13,6 +14,7 @@
 **3. Zodiac Sign Reader**
 * Enter your name and your birthdate to explore your Western zodiac sign.
 * Learn about the personality traits associated with your zodiac sign.
+* The background image of the result page would be your zodiac sign symbol.
 
 **4. Zodiac Relationship Compatibility**
 * Input your and your partner's name and your birthdate.
